@@ -51,7 +51,6 @@ This repository has been created to:
 - provide a reference implementation of the original architecture,
 - support the architectural descriptions presented in the manuscript,
 - serve as a reference for readers interested in the baseline hardware implementation.
-- 
 ---
 
 ## Planned Updates
