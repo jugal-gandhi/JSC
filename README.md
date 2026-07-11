@@ -6,7 +6,7 @@
 
 **Jugal Gandhi · Diksha Shekhawat · M. Santosh · Jaya Dofe · Jai Gopal Pandey**
 
-![Language](https://img.shields.io/badge/language-VHDL-1abc9c?style=flat-square) ![Status](https://img.shields.io/badge/status-baseline%20release-blue?style=flat-square) ![License](https://img.shields.io/badge/license-academic%20use-lightgrey?style=flat-square) ![Funding](https://img.shields.io/badge/funded%20by-ANRF%20Core%20Research%20Grant-9b59b6?style=flat-square) ![views]([https://komarev.com/ghpvc/?username=your-github-username&repo=your-repo-name&style=flat-square&label=views&color=2ecc71](https://komarev.com/ghpvc/?username=jugal-gandhi&repo=JSC&style=flat-square&label=views&color=2ecc71))
+![Language](https://img.shields.io/badge/language-VHDL-1abc9c?style=flat-square) ![Status](https://img.shields.io/badge/status-baseline%20release-blue?style=flat-square) ![License](https://img.shields.io/badge/license-academic%20use-lightgrey?style=flat-square) ![Funding](https://img.shields.io/badge/funded%20by-ANRF%20Core%20Research%20Grant-9b59b6?style=flat-square) ![views](https://komarev.com/ghpvc/?username=jugal-gandhi&repo=JSC&style=flat-square&label=views&color=2ecc71)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## Overview
 
-This repository provides the reference VHDL implementation of the original lightweight block cipher architecture used as the baseline during this work. The contents are provided solely as a reference implementation, to assist readers in understanding the baseline architecture discussed in the paper. The proposed obfuscation-integrated architectures described in the manuscript were developed from these reference implementations, with additional functional obfuscation modules and security logic layered on top.
+This repository provides the reference VHDL implementation of the original lightweight block cipher architecture used as the baseline during this work. The contents are provided solely as a reference implementation to assist readers in understanding the baseline architecture discussed in the paper. The proposed obfuscation-integrated architectures described in the manuscript were developed from these reference implementations, with additional functional obfuscation modules and security logic layered on top.
 
 ---
 
@@ -44,21 +44,17 @@ GitHub/
             └── lfsr.vhd             6-bit round-constant generator (decrypt variant)
 ```
 
-This release covers the GIFT-64 baseline reference architecture only. Encryption, decryption, and key-scheduling logic for GIFT-64 are present as separate VHDL modules under a shared controller FSM in each of `Encrypt/` and `Decrypt/`. PRESENT and RECTANGLE baseline references are not part of this release; see **Planned Updates** below.
-
 ---
 
 ## Purpose of this Repository
-
 This repository has been created to:
 - provide a reference implementation of the original architecture,
 - support the architectural descriptions presented in the manuscript,
 - serve as a reference for readers interested in the baseline hardware implementation.
-
+- 
 ---
 
 ## Planned Updates
-
 This repository represents the initial public release accompanying the manuscript submission. Additional material may be added over time, including:
 - implementation notes,
 - architectural documentation,
@@ -85,7 +81,7 @@ Repository updates will be released periodically as appropriate.
 
 ## Disclaimer
 
-*This repository accompanies the manuscript and is provided to support the architectural descriptions presented in the paper. This repository should not be interpreted as the complete implementation of the obfuscation methodology presented in the paper. The source code represents the baseline architecture used during this work and is intended solely for academic purposes. All rights remain with the respective authors and their affiliated institutions.*
+*This repository accompanies the manuscript and is provided to support the architectural descriptions presented in the paper. This repository should not be interpreted as the complete implementation of the obfuscation methodology presented in the paper. The source code serves as the baseline architecture for this work and is intended solely for academic purposes. All rights remain with the respective authors and their affiliated institutions.*
 
 <div align="center">
 
