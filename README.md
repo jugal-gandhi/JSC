@@ -6,7 +6,7 @@
 
 **Jugal Gandhi · Diksha Shekhawat · M. Santosh · Jaya Dofe · Jai Gopal Pandey**
 
-![Language](https://img.shields.io/badge/language-VHDL-1abc9c?style=flat-square) ![Status](https://img.shields.io/badge/status-baseline%20release-blue?style=flat-square) ![Scope](https://img.shields.io/badge/scope-GIFT--64%20only-orange?style=flat-square) ![License](https://img.shields.io/badge/license-academic%20use-lightgrey?style=flat-square) ![Funding](https://img.shields.io/badge/funded%20by-ANRF%20Core%20Research%20Grant-9b59b6?style=flat-square) ![views](https://komarev.com/ghpvc/?username=your-github-username&repo=your-repo-name&style=flat-square&label=views&color=2ecc71)
+![Language](https://img.shields.io/badge/language-VHDL-1abc9c?style=flat-square) ![Status](https://img.shields.io/badge/status-baseline%20release-blue?style=flat-square) ![License](https://img.shields.io/badge/license-academic%20use-lightgrey?style=flat-square) ![Funding](https://img.shields.io/badge/funded%20by-ANRF%20Core%20Research%20Grant-9b59b6?style=flat-square) ![views]([https://komarev.com/ghpvc/?username=your-github-username&repo=your-repo-name&style=flat-square&label=views&color=2ecc71](https://komarev.com/ghpvc/?username=jugal-gandhi&repo=JSC&style=flat-square&label=views&color=2ecc71))
 
 </div>
 
